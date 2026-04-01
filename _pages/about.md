@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: Ph.D. Candidate in Computer Science, KAUST (wenjia.he@kaust.edu.sa)
 
@@ -26,5 +26,3 @@ latest_posts:
 I am a Ph.D. candidate in Computer Science at King Abdullah University of Science and Technology (KAUST), focusing on AI-guided protein design, computational biology, and machine learning for biological sequence modeling.
 
 My research aims to develop learning-based methods for understanding and engineering protein function, with particular interests in transporter design, enzyme optimization, generative protein modeling, and function prediction.
-
-My current work spans transporter design, enzyme engineering, and generative approaches for controllable protein design.
