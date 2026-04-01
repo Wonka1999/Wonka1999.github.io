@@ -258,6 +258,23 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+      {% if entry.author_note %}
+        <span class="btn btn-sm z-depth-0 disabled pub-badge" role="button" aria-disabled="true">
+          {{ entry.author_note }}
+        </span>
+      {% endif %}
+      {% if entry.jcr_rank %}
+        <span class="btn btn-sm z-depth-0 disabled pub-badge" role="button" aria-disabled="true">
+          {{ entry.jcr_rank }}
+        </span>
+      {% endif %}
+      {% if entry.cas_rank %}
+        <span class="btn btn-sm z-depth-0 disabled pub-badge" role="button" aria-disabled="true">
+          {{ entry.cas_rank }}
+        </span>
+      {% endif %}
+      {% endif %}
+
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
@@ -391,5 +408,6 @@
         <div style="text-align: center;">{% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true %}</div>
       </div>
     {% endif %}
+
   </div>
 </div>
