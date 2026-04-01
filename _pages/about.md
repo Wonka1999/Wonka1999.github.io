@@ -31,7 +31,7 @@ I develop learning-based methods to understand and engineer protein function, wi
 
 **Keywords:** protein design, enzyme engineering, function prediction, machine learning, computational biology, bioinformatics
 
-**Google Scholar:** [Google Scholar](https://scholar.google.com/citations?user=hl-OHKYAAAAJ&hl=en)  
+**Google Scholar:** [Wenjia He (KAUST)](https://scholar.google.com/citations?user=hl-OHKYAAAAJ&hl=en)  
 
 **Web of Science:** [PQW-4364-2026](https://www.webofscience.com/wos/author/record/PQW-4364-2026)  
 
