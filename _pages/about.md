@@ -1,26 +1,26 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: Ph.D. Candidate in Computer Science, KAUST (wenjia.he@kaust.edu.sa)
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+selected_papers: true
+social: false
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
 I am a Ph.D. candidate in Computer Science at King Abdullah University of Science and Technology (KAUST), focusing on AI-guided protein design, computational biology, and machine learning for biological sequence modeling.
