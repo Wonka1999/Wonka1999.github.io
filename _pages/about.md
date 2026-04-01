@@ -27,8 +27,6 @@ I am a Ph.D. candidate in Computer Science at King Abdullah University of Scienc
 
 I develop learning-based methods to understand and engineer protein function, with particular interests in transporter design, enzyme optimization, generative protein modeling, and protein function prediction.
 
-**Keywords:** protein design, computational biology, machine learning, bioinformatics
-
 **Google Scholar:** [Google Scholar](https://scholar.google.com/citations?user=hl-OHKYAAAAJ&hl=en)  
 
 **ORCID:** [0000-0001-8161-4642](https://orcid.org/0000-0001-8161-4642)
