@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Computer Science, KAUST (wenjia.he@kaust.edu.sa)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_wonka.jpg
   image_circular: false
 
 selected_papers: true
