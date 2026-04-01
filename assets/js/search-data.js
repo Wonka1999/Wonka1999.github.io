@@ -440,11 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-paper-segdesign-a-modular-framework-for-controllable-protein-segment-engineering-was-published-in-protein-science-read-the-paper",
+            },},{id: "news-our-paper-segdesign-a-modular-framework-for-controllable-protein-segment-engineering-was-published-in-protein-science-read-the-paper",
           title: 'Our paper, SegDesign: A modular framework for controllable protein segment engineering, was published...',
+          description: "",
+          section: "News",},{id: "news-our-paper-proteinmcp-an-agentic-ai-framework-for-autonomous-protein-engineering-was-published-in-protein-science-read-the-paper",
+          title: 'Our paper, ProteinMCP: An agentic AI framework for autonomous protein engineering, was published...',
           description: "",
           section: "News",},{id: "news-launched-my-personal-academic-website",
           title: 'Launched my personal academic website.',
