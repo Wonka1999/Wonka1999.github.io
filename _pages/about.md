@@ -1,28 +1,5 @@
----
-layout: about
-title: about
-permalink: /
-subtitle: Ph.D. Candidate in Computer Science, KAUST (wenjia.he@kaust.edu.sa)
+Write your biography here. Tell the world about yourself. Link to your favorite subreddit. You can put a picture in, too. The code is already in, just name your picture prof_pic.jpg and put it in the img/ folder.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing profile property of the YAML header of your _pages/about.md. Edit _bibliography/papers.bib and Jekyll will render your publications page automatically.
 
-selected_papers: true
-social: false
-
-announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
-
-latest_posts:
-  enabled: true
-  scrollable: true
-  limit: 3
----
-
-I am a Ph.D. candidate in Computer Science at King Abdullah University of Science and Technology (KAUST), focusing on AI-guided protein design, computational biology, and machine learning for biological sequence modeling.
-
-My research aims to develop learning-based methods for understanding and engineering protein function, with particular interests in transporter design, enzyme optimization, generative protein modeling, and function prediction.
+Link to your social media connections, too. This theme is set up to use Font Awesome icons and Academicons, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
