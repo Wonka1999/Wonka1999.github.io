@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. Candidate in Computer Science, KAUST (wenjia.he@kaust.edu.sa)
 
