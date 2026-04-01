@@ -258,11 +258,7 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
-      {% if entry.author_note %}
-        <span class="btn btn-sm z-depth-0 disabled pub-badge" role="button" aria-disabled="true">
-          {{ entry.author_note }}
-        </span>
-      {% endif %}
+
       {% if entry.jcr_rank %}
         <span class="btn btn-sm z-depth-0 disabled pub-badge" role="button" aria-disabled="true">
           {{ entry.jcr_rank }}
@@ -273,6 +269,10 @@
           {{ entry.cas_rank }}
         </span>
       {% endif %}
+      {% if entry.author_note %}
+        <span class="btn btn-sm z-depth-0 disabled pub-badge" role="button" aria-disabled="true">
+          {{ entry.author_note }}
+        </span>
       {% endif %}
 
     </div>
