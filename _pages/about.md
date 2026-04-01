@@ -30,5 +30,7 @@ I develop learning-based methods to understand and engineer protein function, wi
 **Keywords:** protein design, computational biology, machine learning, bioinformatics
 
 **Google Scholar:** [Google Scholar](https://scholar.google.com/citations?user=hl-OHKYAAAAJ&hl=en)  
+
 **ORCID:** [0000-0001-8161-4642](https://orcid.org/0000-0001-8161-4642)
+
 **Email:** [wenjia.he@kaust.edu.sa](mailto:wenjia.he@kaust.edu.sa)  
