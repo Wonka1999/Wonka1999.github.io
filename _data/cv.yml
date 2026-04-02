@@ -24,7 +24,7 @@ cv:
   sections:
     Education:
       - institution: King Abdullah University of Science and Technology (KAUST)
-        location: Thuwal, Jeddah, Saudi Arabia
+        location: Thuwal, Saudi Arabia
         url: https://www.uzh.ch/
         area: Computer Science
         studyType: Ph.D.
@@ -38,7 +38,7 @@ cv:
           - Center of Excellence on Generative AI
       
       - institution: King Abdullah University of Science and Technology (KAUST)
-        location: Thuwal, Jeddah, Saudi Arabia
+        location: Thuwal, Saudi Arabia
         url: https://www.kaust.edu.sa/en/
         area: Computer Science
         studyType: Master
@@ -55,7 +55,7 @@ cv:
           - Genomics
           
       - institution: Shandong University (SDU)
-        location: Jinan, Shandong, China
+        location: Jinan, China
         url: https://www.sdu.edu.cn/
         area: Software Engineering (Artificial Intelligence Division)
         studyType: Bachelor of Engineering
