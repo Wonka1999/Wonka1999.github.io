@@ -93,7 +93,7 @@ cv:
         url: https://onlinelibrary.wiley.com/doi/10.1002/pro.70542
         summary: We present SegDesign, a semi-automated workflow for local protein segment engineering, enabling precise manipulation of secondary structures while maintaining global folding integrity.
 
-            Projects:
+    Projects:
       - name: Design of Terminal Deoxynucleotidyl Transferase
         summary: Engineered TdT variants with improved dNTP selectivity and incorporation fidelity through iterative design-in-the-loop optimization, expanding patent-compliant design space for industrial translation.
         highlights:
