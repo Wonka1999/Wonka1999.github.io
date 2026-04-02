@@ -5,7 +5,7 @@ cv:
   location: KAUST, Jeddah, Saudi Arabia
   image: prof_pic_wonka.jpg
   summary: A PhD candidate at KAUST working on AI-guided protein design, developing generative and learning-based frameworks to understand and control protein sequence–function relationships.
-
+  
   address:
     street: KAUST
     city: Jeddah
@@ -28,7 +28,7 @@ cv:
           - SFB research group supervised by Prof. Xin Gao
           - Center of Excellence for Smart Health (KCSH)
           - Center of Excellence on Generative AI
-
+          
       - institution: King Abdullah University of Science and Technology (KAUST)
         location: Thuwal, Jeddah, Saudi Arabia
         url: https://www.kaust.edu.sa/en/
@@ -46,7 +46,7 @@ cv:
           - Algorithms in Bioinformatics
           - Biophysics
           - Genomics
-
+          
       - institution: Shandong University (SDU)
         location: Jinan, Shandong, China
         url: https://www.sdu.edu.cn/
@@ -60,3 +60,4 @@ cv:
           - Natural Language Processing
           - Recommendation System
           - Design and Analysis of Algorithms
+          
