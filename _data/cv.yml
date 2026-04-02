@@ -130,7 +130,7 @@ cv:
         date: "2019"
         awarder: Shandong University
         
-    Selected Publications:
+    Publications:
       - title: "SegDesign: A modular framework for controllable protein segment engineering"
         authors:
           - Chenjie Feng, Junbo Yin, Chao Zha, Mohammed Saif, Xiaopeng Xu, Xin Gao*, Wenjia He*
