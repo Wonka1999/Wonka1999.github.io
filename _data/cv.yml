@@ -26,7 +26,7 @@ cv:
       - institution: King Abdullah University of Science and Technology (KAUST)
         location: Thuwal, Jeddah, Saudi Arabia
         url: https://www.kaust.edu.sa/en/
-        area: computer science
+        area: Computer Science
         studyType: Ph.D.
         start_date: 2024
         end_date: 2027
@@ -40,13 +40,14 @@ cv:
       - institution: King Abdullah University of Science and Technology (KAUST)
         location: Thuwal, Jeddah, Saudi Arabia
         url: https://www.kaust.edu.sa/en/
-        area: computer science
+        area: Computer Science
         studyType: Master
         start_date: 2022
         end_date: 2024
         score: "3.82/4.0"
-        courses: "Data Analytics"
+        courses: ""
         highlights:
+          - Data Analytics
           - Deep Learning in Visual Computing
           - Deep Generative Modeling
           - Generative Modeling
@@ -57,7 +58,7 @@ cv:
       - institution: Shandong University (SDU)
         location: Jinan, Shandong, China
         url: https://www.sdu.edu.cn/
-        area: software engineering (Artificial Intelligence Division)
+        area: Software Engineering (Artificial Intelligence Division)
         studyType: Bachelor of Engineering 
         start_date: 2018
         end_date: 2022
