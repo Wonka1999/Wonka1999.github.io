@@ -152,7 +152,7 @@ cv:
           - Wenjia He, Yi Jiang, Junru Jin, Zhongshen Li, Jiaojiao Zhao, Balachandran Manavalan, Ran Su, Xin Gao*, Leyi Wei*
         publisher: Briefings in Bioinformatics
         releaseDate: "2022/01"
-        url:hhttps://academic.oup.com/bib/article/23/1/bbab499/6457168
+        url: https://academic.oup.com/bib/article/23/1/bbab499/6457168
         summary: This work developed MIMML, a mutual information-based meta-learning framework for few-shot bioactive peptide discovery, enabling generalizable prediction across diverse peptide functions with substantially reduced training data requirements.
         
       - title: "Learning embedding features based on multisense-scaled attention architecture to improve the predictive performance of anticancer peptides"
