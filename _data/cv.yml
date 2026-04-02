@@ -12,7 +12,4 @@ cv:
     region: Thuwal
     postalCode: "23955"
     countryCode: SA
-    
-  sections:
-    Education:
-      - institution: King Abdullah University of Science and Technology (KAUST)
+
