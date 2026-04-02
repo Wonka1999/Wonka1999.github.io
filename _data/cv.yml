@@ -83,6 +83,17 @@ cv:
         end_date: 2022/06
         summary: Research internship. Guided by Professor Xin Gao.
 
+
+    Publications:
+      - title: SegDesign: A modular framework for controllable protein segment engineering
+        authors:
+          - Chenjie Feng, Junbo Yin, Chao Zha, Mohammed Saif, Xiaopeng Xu, Xin Gao*, Wenjia He*
+        publisher: Protein Science
+        releaseDate: "2026/03"
+        url: https://onlinelibrary.wiley.com/doi/10.1002/pro.70542
+        summary: We present SegDesign, a semi-automated workflow for local protein segment engineering, enabling precise manipulation of secondary structures while maintaining global folding integrity.
+
+        
     Awards:
       - title: Dean's List Award KAUST 2025
         authors:
@@ -118,24 +129,6 @@ cv:
         authors:
           - "Shandong University"
         date: "2019"
-
-        
-    Skills:
-      - name: Machine Learning & AI
-        icon: fa-solid fa-hashtag
-        keywords: "PyTorch, PyG, contrastive learning, generative modeling (VAE, diffusion, transformers)"
-
-      - name: Protein Analysis & Design
-        icon: fa-solid fa-hashtag
-        keywords: "Protein language models (ESM), structure prediction (AF3), protein design (RFdiffusion, ProteinMPNN)"
-
-      - name: Bioinformatics
-        icon: fa-solid fa-hashtag
-        keywords: "MSA analysis, RING analysis, molecular dynamics, clustering analysis (MMseqs2, TMalign)"
-
-      - name: Application Development
-        icon: fa-solid fa-hashtag
-        keywords: "Java, JavaScript, Vue, SpringBoot; full-stack web development and WeChat Mini Program development"
 
         
     Languages:
