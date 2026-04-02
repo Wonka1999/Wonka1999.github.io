@@ -133,14 +133,14 @@ cv:
         location: Beijing, China
         start_date: 2022/06
         end_date: 2022/08
-        summary: Industrial internship. Investigation on PPI, CPI, and PepPI mehtods. Reproduce typical algorithms for benchmark comparison, such as OnionNet-2, DeepPurpose, CAMP.
+        summary: Industrial internship. Guided by Professor Xin Gao. Investigation on PPI, CPI, and PepPI mehtods. Reproduce typical algorithms for benchmark comparison, such as OnionNet-2, DeepPurpose, CAMP.
 
       - company: BioMap
         position: AI Technology Algorithm Internship
         location: Beijing, China
         start_date: 2021/05
         end_date: 2022/06
-        summary: Industrial internship. Offline Internship. Guided by Xin Gao and Le Song. Investigated protein aggregation and developed algorithms (AutoML) to predict amyloid formation in antibody light chains.
+        summary: Industrial internship. Guided by Professor Xin Gao and Le Song. Investigated protein aggregation and developed algorithms (AutoML) to predict amyloid formation in antibody light chains.
 
       - company: King Abdullah University of Science and Technology
         position: Visitng Student Research Program
