@@ -12,3 +12,19 @@ cv:
     region: Thuwal
     postalCode: "23955"
     countryCode: SA
+    
+  sections:
+    Education:
+      - institution: King Abdullah University of Science and Technology (KAUST)
+        location: Thuwal, Jeddah, Saudi Arabia
+        url: https://www.kaust.edu.sa/en/
+        area: Computer Science
+        studyType: Ph.D.
+        start_date: 2024
+        end_date: 2027
+        score: ""
+        courses: ""
+        highlights:
+          - SFB research group supervised by Prof. Xin Gao
+          - Center of Excellence for Smart Health (KCSH)
+          - Center of Excellence on Generative AI
