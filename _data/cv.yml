@@ -1,50 +1,71 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Wenjia He (Wonka)
+  label: Ph.D. Candidate
+  email: wenjia.he@kaust.edu.sa
+  location: KAUST, Jeddah, Saudi Arabia
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: A PhD candidate at KAUST working on AI-guided protein design, developing generative and learning-based frameworks to understand and control protein sequence–function relationships.
+  
+  # social_networks:
+  #   - network: X
+  #     username: AlbertEinstein
+  #   - network: GitHub
+  #     username: example
+  #   - network: LinkedIn
+  #     username: example
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  # address:
+  #   street: 2712 Broadway St
+  #   city: San Francisco
+  #   region: California
+  #   postalCode: CA 94115
+  #   countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: King Abdullah University of Science and Technology (KAUST)
+        location: Thuwal, Jeddah, Saudi Arabia
+        url: https://www.kaust.edu.sa/en/
+        area: computer science
+        studyType: Ph.D.
+        start_date: 2024
+        end_date: 2027
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - SFB research group supervised by Prof. Xin Gao
+          - Center of Excellence for Smart Health (KCSH)
+          - Center of Excellence on Generative AI
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: King Abdullah University of Science and Technology (KAUST)
+        location: Thuwal, Jeddah, Saudi Arabia
+        url: https://www.kaust.edu.sa/en/
+        area: computer science
+        studyType: Master
+        start_date: 2024
+        end_date: 2022
+        score: "3.82/4.0"
+        courses: "Data Analytics"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Deep Learning in Visual Computing
+          - Deep Generative Modeling
+          - Generative Modeling
+          - Algorithms in Bioinformatics
+          - Biophysics
+          - Genomics
+          
+      - institution: Shandong University (SDU)
+        location: Jinan, Shandong, China
+        area: software engineering (Artificial Intelligence Division)
+        studyType: Bachelor of Engineering 
+        start_date: 2018
+        end_date: 2022
+        score: "90.29/100"
+        highlights:
+          - Machine Learning
+          - Natural Language Processing
+          - Recommendation System
+          - Design and Analysis of Algorithms
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
