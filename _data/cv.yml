@@ -61,38 +61,6 @@ cv:
           - Recommendation System
           - Design and Analysis of Algorithms
 
-    Experience:
-      - company: SyneronTech
-        position: AI Algorithm Internship
-        location: Beijing, China
-        start_date: 2022/06
-        end_date: 2022/08
-        summary: Industrial internship. Investigation on PPI, CPI, and PepPI mehtods. Reproduce typical algorithms for benchmark comparison, such as OnionNet-2, DeepPurpose, CAMP.
-
-      - company: BioMap
-        position: AI Technology Algorithm Internship
-        location: Beijing, China
-        start_date: 2021/05
-        end_date: 2022/06
-        summary: Industrial internship. Offline Internship. Guided by Xin Gao and Le Song. Investigated protein aggregation and developed algorithms (AutoML) to predict amyloid formation in antibody light chains.
-
-      - company: King Abdullah University of Science and Technology
-        position: Visitng Student Research Program
-        location: Beijing, China
-        start_date: 2021/11
-        end_date: 2022/06
-        summary: Research internship. Guided by Professor Xin Gao.
-
-
-    Publications:
-      - title: SegDesign: A modular framework for controllable protein segment engineering
-        authors:
-          - Chenjie Feng, Junbo Yin, Chao Zha, Mohammed Saif, Xiaopeng Xu, Xin Gao*, Wenjia He*
-        publisher: Protein Science
-        releaseDate: "2026/03"
-        url: https://onlinelibrary.wiley.com/doi/10.1002/pro.70542
-        summary: We present SegDesign, a semi-automated workflow for local protein segment engineering, enabling precise manipulation of secondary structures while maintaining global folding integrity.
-
     Projects:
       - name: Design of Terminal Deoxynucleotidyl Transferase
         summary: Engineered TdT variants with improved dNTP selectivity and incorporation fidelity through iterative design-in-the-loop optimization, expanding patent-compliant design space for industrial translation.
@@ -157,6 +125,29 @@ cv:
           - Course Project
         start_date: "2023/01"
         end_date: "2023/05"
+
+        
+    Experience:
+      - company: SyneronTech
+        position: AI Algorithm Internship
+        location: Beijing, China
+        start_date: 2022/06
+        end_date: 2022/08
+        summary: Industrial internship. Investigation on PPI, CPI, and PepPI mehtods. Reproduce typical algorithms for benchmark comparison, such as OnionNet-2, DeepPurpose, CAMP.
+
+      - company: BioMap
+        position: AI Technology Algorithm Internship
+        location: Beijing, China
+        start_date: 2021/05
+        end_date: 2022/06
+        summary: Industrial internship. Offline Internship. Guided by Xin Gao and Le Song. Investigated protein aggregation and developed algorithms (AutoML) to predict amyloid formation in antibody light chains.
+
+      - company: King Abdullah University of Science and Technology
+        position: Visitng Student Research Program
+        location: Beijing, China
+        start_date: 2021/11
+        end_date: 2022/06
+        summary: Research internship. Guided by Professor Xin Gao.
 
         
     Awards:
