@@ -16,8 +16,8 @@ cv:
 
   address:
     street: KAUST
-    city: Thuwal
-    region: Jeddah
+    city: Jeddah
+    region: Thuwal
     postalCode: "23955"
     countryCode: SA
 
@@ -70,58 +70,62 @@ cv:
           - Design and Analysis of Algorithms
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: SyneronTech
+        position: AI Algorithm Internship
+        location: Beijing, China
+        start_date: 2022/06
+        end_date: 2022/08
+        summary: Industrial internship. Investigation on PPI, CPI, and PepPI mehtods. Reproduce typical algorithms for benchmark comparison, such as OnionNet-2, DeepPurpose, CAMP.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: BioMap
+        position: AI Technology Algorithm Internship
+        location: Beijing, China
+        start_date: 2021/05
+        end_date: 2022/06
+        summary: Industrial internship. Offline Internship. Guided by Xin Gao and Le Song. Investigated protein aggregation and developed algorithms (AutoML) to predict amyloid formation in antibody light chains.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: King Abdullah University of Science and Technology
+        position: Visitng Student Research Program
+        location: Beijing, China
+        start_date: 2021/11
+        end_date: 2022/06
+        summary: Research internship. Guided by Professor Xin Gao.
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Dean's List Award KAUST 2025
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "King Abdullah University of Science and Technology"
+        date: 2025/10
 
-      - title: Max Planck Medal
+      - title: The college's role model & Star of Youth League branch of the year
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "Shandong University"
+        date: "2021"
+
+      - title: Microsoft Student Club (MSC) "Excellent Club Leader - Technology" of the year
+        authors:
+          - "Microsoft Research Asia (MSRA)"
+        date: "2020"
+        
+      - title: Recognition Award in the Sixth "Internet+" college student Innovation and Entrepreneurship Competition
+        authors:
+          - "Shandong University"
+        date: "2020"
+
+      - title: Bronze Prize in 2020 SDU "Challenge Cup" Entrepreneurship Competition
+        authors:
+          - "Shandong University"
+        date: "2020"
+
+      - title: Honorable Mention Prize in the Mathematical Contest Modeling
+        authors:
+          - "MCM/ICM, COMAP"
+        date: "2020"
+
+      - title: First Prize in the China Undergraduate Mathematical Contest in Modeling
+        authors:
+          - "Shandong University"
+        date: "2019"
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
