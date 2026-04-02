@@ -150,7 +150,7 @@ cv:
 
       - name: Bioinformatics
         icon: fa-solid fa-hashtag
-        keywords: "MSA analysis, RING analysis, molecular dynamics, clustering analysis (MMseqs2, TMalign)"
+        keywords: "MSA analysis, RING analysis, MMseqs2, TMalign, molecular dynamics"
 
       - name: Application Development
         icon: fa-solid fa-hashtag
