@@ -119,6 +119,25 @@ cv:
           - "Shandong University"
         date: "2019"
 
+        
+    Skills:
+      - name: Machine Learning & AI
+        icon: fa-solid fa-hashtag
+        keywords: "PyTorch, PyG, contrastive learning, generative modeling (VAE, diffusion, transformers)"
+
+      - name: Protein Analysis & Design
+        icon: fa-solid fa-hashtag
+        keywords: "Protein language models (ESM), structure prediction (AF3), protein design (RFdiffusion, ProteinMPNN)"
+
+      - name: Bioinformatics
+        icon: fa-solid fa-hashtag
+        keywords: "MSA analysis, RING analysis, molecular dynamics, clustering analysis (MMseqs2, TMalign)"
+
+      - name: Application Development
+        icon: fa-solid fa-hashtag
+        keywords: "Java, JavaScript, Vue, SpringBoot; full-stack web development and WeChat Mini Program development"
+
+        
     Languages:
       - name: Cantonese
         summary: "Native speaker"
