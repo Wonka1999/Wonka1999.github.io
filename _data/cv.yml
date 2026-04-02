@@ -159,7 +159,7 @@ cv:
         authors:
           - Leyi Wei*, Wenjia He, Adeel Malik, Ran Su, Lizhen Cui, Balachandran Manavalan*
         publisher: Briefings in Bioinformatics
-        releaseDate: "2021/07"
+        releaseDate: "2021/12"
         url: https://academic.oup.com/bioinformatics/article/37/24/4684/6330613
         summary: This work developed ACPred-LAF, an end-to-end attention-based deep learning framework for anticancer peptide prediction, leveraging adaptive multisense and multiscaled sequence embeddings to outperform existing methods.
         
