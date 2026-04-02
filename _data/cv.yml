@@ -6,20 +6,20 @@ cv:
   image: ""
   summary: A PhD candidate at KAUST working on AI-guided protein design, developing generative and learning-based frameworks to understand and control protein sequence–function relationships.
   
-  # social_networks:
-  #   - network: X
-  #     username: AlbertEinstein
-  #   - network: GitHub
-  #     username: example
-  #   - network: LinkedIn
-  #     username: example
+  social_networks:
+    - network: X
+      username: AlbertEinstein
+    - network: GitHub
+      username: example
+    - network: LinkedIn
+      username: example
 
-  # address:
-  #   street: 2712 Broadway St
-  #   city: San Francisco
-  #   region: California
-  #   postalCode: CA 94115
-  #   countryCode: US
+  address:
+    street: 2712 Broadway St
+    city: San Francisco
+    region: California
+    postalCode: CA 94115
+    countryCode: US
 
   sections:
     Education:
@@ -36,14 +36,14 @@ cv:
           - SFB research group supervised by Prof. Xin Gao
           - Center of Excellence for Smart Health (KCSH)
           - Center of Excellence on Generative AI
-
+      
       - institution: King Abdullah University of Science and Technology (KAUST)
         location: Thuwal, Jeddah, Saudi Arabia
         url: https://www.kaust.edu.sa/en/
         area: computer science
         studyType: Master
-        start_date: 2024
-        end_date: 2022
+        start_date: 2022
+        end_date: 2024
         score: "3.82/4.0"
         courses: "Data Analytics"
         highlights:
@@ -53,7 +53,7 @@ cv:
           - Algorithms in Bioinformatics
           - Biophysics
           - Genomics
-          
+      
       - institution: Shandong University (SDU)
         location: Jinan, Shandong, China
         url: https://www.sdu.edu.cn/
