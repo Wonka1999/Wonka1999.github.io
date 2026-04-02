@@ -83,7 +83,6 @@ cv:
         end_date: 2022/06
         summary: Research internship. Guided by Professor Xin Gao.
 
-        
     Awards:
       - title: Dean's List Award KAUST 2025
         authors:
@@ -120,7 +119,6 @@ cv:
           - "Shandong University"
         date: "2019"
 
-        
     Languages:
       - name: Cantonese
         summary: "Native speaker"
@@ -130,5 +128,3 @@ cv:
 
       - name: English
         summary: "Fluent"
-      
-
