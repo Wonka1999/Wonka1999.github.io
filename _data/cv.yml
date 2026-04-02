@@ -6,14 +6,6 @@ cv:
   image: prof_pic_wonka.jpg
   summary: A PhD candidate at KAUST working on AI-guided protein design, developing generative and learning-based frameworks to understand and control protein sequence–function relationships.
   
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
   address:
     street: KAUST
     city: Jeddah
