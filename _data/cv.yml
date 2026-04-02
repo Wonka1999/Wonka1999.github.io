@@ -137,7 +137,7 @@ cv:
         publisher: Protein Science
         releaseDate: "2026/03"
         url: https://onlinelibrary.wiley.com/doi/10.1002/pro.70542
-        summary: We present SegDesign, a semi-automated workflow for local protein segment engineering, enabling precise manipulation of secondary structures while maintaining global folding integrity.
+        summary: This work developed SegDesign, a semi-automated workflow for local protein segment engineering, enabling precise manipulation of secondary structures while maintaining global folding integrity.
 
       - title: "AggNet: Advancing protein aggregation analysis through deep learning and protein language model"
         authors:
