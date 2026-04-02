@@ -130,7 +130,7 @@ cv:
         date: "2019"
         awarder: Shandong University
         
-    Publications:
+    Selected Publications:
       - title: "SegDesign: A modular framework for controllable protein segment engineering"
         authors:
           - Chenjie Feng, Junbo Yin, Chao Zha, Mohammed Saif, Xiaopeng Xu, Xin Gao*, Wenjia He*
@@ -139,6 +139,38 @@ cv:
         url: https://onlinelibrary.wiley.com/doi/10.1002/pro.70542
         summary: We present SegDesign, a semi-automated workflow for local protein segment engineering, enabling precise manipulation of secondary structures while maintaining global folding integrity.
 
+      - title: "AggNet: Advancing protein aggregation analysis through deep learning and protein language model"
+        authors:
+          - Wenjia He, Xiaopeng Xu, Haoyang Li, Juexiao Zhou, Xin Gao*
+        publisher: Protein Science
+        releaseDate: "2025/02"
+        url: https://onlinelibrary.wiley.com/doi/full/10.1002/pro.70031
+        summary: This work developed AggNet, a deep learning framework integrating protein language and structural information for amyloid prediction and APR identification, achieving state-of-the-art performance and demonstrating utility in aggregation analysis and mutation-guided mitigation.
+
+      - title: "Accelerating bioactive peptide discovery via mutual information-based meta-learning"
+        authors:
+          - Wenjia He, Yi Jiang, Junru Jin, Zhongshen Li, Jiaojiao Zhao, Balachandran Manavalan, Ran Su, Xin Gao*, Leyi Wei*
+        publisher: Briefings in Bioinformatics
+        releaseDate: "2022/01"
+        url:hhttps://academic.oup.com/bib/article/23/1/bbab499/6457168
+        summary: This work developed MIMML, a mutual information-based meta-learning framework for few-shot bioactive peptide discovery, enabling generalizable prediction across diverse peptide functions with substantially reduced training data requirements.
+        
+      - title: "Learning embedding features based on multisense-scaled attention architecture to improve the predictive performance of anticancer peptides"
+        authors:
+          - Leyi Wei*, Wenjia He, Adeel Malik, Ran Su, Lizhen Cui, Balachandran Manavalan*
+        publisher: Briefings in Bioinformatics
+        releaseDate: "2021/07"
+        url: https://academic.oup.com/bioinformatics/article/37/24/4684/6330613
+        summary: This work developed ACPred-LAF, an end-to-end attention-based deep learning framework for anticancer peptide prediction, leveraging adaptive multisense and multiscaled sequence embeddings to outperform existing methods.
+        
+      - title: "Computational prediction and interpretation of cell-specific replication origin sites from multiple eukaryotes by exploiting stacking framework"
+        authors:
+          - Leyi Wei*, Wenjia He, Adeel Malik, Ran Su, Lizhen Cui, Balachandran Manavalan*
+        publisher: Briefings in Bioinformatics
+        releaseDate: "2021/07"
+        url: https://academic.oup.com/bib/article/22/4/bbaa275/5956930
+        summary: This work developed Stack-ORI, an interpretable stacking-based framework for cell-specific prediction of eukaryotic DNA replication origin sites, achieving improved performance over existing methods by integrating diverse sequence encodings and SHAP-based feature interpretation.
+        
     Skills:
       - name: Machine Learning & AI
         icon: fa-solid fa-hashtag
@@ -176,8 +208,7 @@ cv:
         end_date: Present
 
       - name: Design of Recombinant Human Hyaluronidase (rHuPH20)
-        summary: Engineered rHuPH20 variants with enhanced catalytic activity, thermostability, interference resistance, and reduced immunogenicity through iterative design-in-the-loop optimization, identifying lead candidates beyond patent-constrained sequence space. The top variants exhibited marked improvements in both activity and thermostability.
-        highlights:
+        summary: Engineered rHuPH20 variants with enhanced catalytic activity, thermostability, interference resistance, and reduced immunogenicity through iterative design-in-the-loop optimization, yielding lead candidates beyond patent-constrained sequence space. The best-performing variants showed substantial improvements in both activity and thermostability relative to existing patented variants.
           - Joint Industry–Academia Project
           - Computational Co-lead
         start_date: "2025/05"
