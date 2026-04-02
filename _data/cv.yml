@@ -28,3 +28,35 @@ cv:
           - SFB research group supervised by Prof. Xin Gao
           - Center of Excellence for Smart Health (KCSH)
           - Center of Excellence on Generative AI
+
+      - institution: King Abdullah University of Science and Technology (KAUST)
+        location: Thuwal, Jeddah, Saudi Arabia
+        url: https://www.kaust.edu.sa/en/
+        area: Computer Science
+        studyType: Master
+        start_date: 2022
+        end_date: 2024
+        score: "3.82/4.0"
+        courses: ""
+        highlights:
+          - Data Analytics
+          - Deep Learning in Visual Computing
+          - Deep Generative Modeling
+          - Generative Modeling
+          - Algorithms in Bioinformatics
+          - Biophysics
+          - Genomics
+
+      - institution: Shandong University (SDU)
+        location: Jinan, Shandong, China
+        url: https://www.sdu.edu.cn/
+        area: Software Engineering (Artificial Intelligence Division)
+        studyType: Bachelor of Engineering
+        start_date: 2018
+        end_date: 2022
+        score: "90.29/100"
+        highlights:
+          - Machine Learning
+          - Natural Language Processing
+          - Recommendation System
+          - Design and Analysis of Algorithms
