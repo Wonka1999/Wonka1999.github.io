@@ -27,7 +27,7 @@ cv:
         location: Thuwal, Saudi Arabia
         url: https://www.kaust.edu.sa/en/
         area: Computer Science
-        studyType: Ph.D.
+        studyType: Doctor of Philosophy
         start_date: 2024
         end_date: 2027
         score: ""
@@ -41,7 +41,7 @@ cv:
         location: Thuwal, Saudi Arabia
         url: https://www.kaust.edu.sa/en/
         area: Computer Science
-        studyType: Master
+        studyType: Master of Science
         start_date: 2022
         end_date: 2023
         score: "3.82/4.0"
@@ -204,6 +204,7 @@ cv:
         highlights:
           - Joint Industry–Academia Project
           - Computational Lead
+          - 2025/05 —— Present
         start_date: "2025/05"
         end_date: Present
 
@@ -211,6 +212,7 @@ cv:
         summary: Engineered rHuPH20 variants with enhanced catalytic activity, thermostability, interference resistance, and reduced immunogenicity through iterative design-in-the-loop optimization, yielding lead candidates beyond patent-constrained sequence space. The best-performing variants showed substantial improvements in both activity and thermostability relative to existing patented variants.
           - Joint Industry–Academia Project
           - Computational Co-lead
+          - 2025/05 —— Present
         start_date: "2025/05"
         end_date: Present
 
@@ -219,6 +221,7 @@ cv:
         highlights:
           - Research Project
           - Computational Co-lead
+          - 2025/01 —— Present
         start_date: "2025/01"
         end_date: Present
 
@@ -227,6 +230,7 @@ cv:
         highlights:
           - Research Project
           - Computational Co-lead
+          - 2024/10 —— Present
         start_date: "2024/10"
         end_date: Present
 
@@ -235,6 +239,7 @@ cv:
         highlights:
           - Joint Industry–Academia Project
           - Computational Contributor
+          - 2024/03 —— 2025/12
         start_date: "2024/03"
         end_date: 2025-12
 
@@ -243,6 +248,7 @@ cv:
         highlights:
           - Joint Industry–Academia Project
           - Computational Lead
+          - 2024/03 —— 2025/03
         start_date: "2024/03"
         end_date: Present
 
@@ -251,6 +257,7 @@ cv:
         highlights:
           - Research Project
           - Computational Lead
+          - 2023/12 —— Present
         start_date: "2023/10"
         end_date: Present
 
@@ -259,5 +266,6 @@ cv:
         highlights:
           - Course Project
           - Computational Lead
+          - 2023/01 —— 2023/05
         start_date: "2023/01"
         end_date: "2023/05"
