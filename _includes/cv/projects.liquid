@@ -5,13 +5,23 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
   {% for entry in entries %}
     <li class="list-group-item">
-      {% if entry.url %}
-        <h6 class="title font-weight-bold">
-          <a href="{{ entry.url }}" target="_blank">{{ entry.name }}</a>
-        </h6>
-      {% else %}
-        <h6 class="title font-weight-bold">{{ entry.name }}</h6>
-      {% endif %}
+      <div class="d-flex justify-content-between align-items-start">
+        {% if entry.url %}
+          <h6 class="title font-weight-bold mb-0">
+            <a href="{{ entry.url }}" target="_blank">{{ entry.name }}</a>
+          </h6>
+        {% else %}
+          <h6 class="title font-weight-bold mb-0">{{ entry.name }}</h6>
+        {% endif %}
+
+        {% if entry.date %}
+          <span class="text-muted">{{ entry.date }}</span>
+        {% elsif entry.startDate or entry.endDate %}
+          <span class="text-muted">
+            {{ entry.startDate }}{% if entry.startDate and entry.endDate %} – {% endif %}{{ entry.endDate | default: 'Present' }}
+          </span>
+        {% endif %}
+      </div>
 
       {% if entry.summary %}
         <p>{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
