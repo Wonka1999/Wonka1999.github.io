@@ -269,6 +269,11 @@
           {{ entry.cas_rank }}
         </a>
       {% endif %}
+      {% if entry.ccf_rank %}
+        <a class="btn btn-sm z-depth-0" role="button">
+          {{ entry.ccf_rank }}
+        </a>
+      {% endif %}
       {% if entry.author_note %}
         <a class="btn btn-sm z-depth-0" role="button">
           {{ entry.author_note }}
