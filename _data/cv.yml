@@ -209,7 +209,8 @@ cv:
         end_date: Present
 
       - name: Design of Recombinant Human Hyaluronidase (rHuPH20)
-        summary: Engineered rHuPH20 variants with enhanced catalytic activity, thermostability, interference resistance, and reduced immunogenicity through iterative design-in-the-loop optimization, yielding lead candidates beyond patent-constrained sequence space. The best-performing variants showed substantial improvements in both activity and thermostability relative to existing patented variants.
+        summary: Engineered rHuPH20 variants with enhanced catalytic activity, thermostability, interference resistance, and reduced immunogenicity through iterative design-in-the-loop optimization, yielding lead candidates beyond patent-constrained sequence space. The best variants showed substantial improvements in both activity and thermostability relative to existing patented variants.
+        highlights:
           - Joint Industry–Academia Project
           - Computational Co-lead
           - 2025/05 —— Present
