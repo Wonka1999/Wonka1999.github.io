@@ -218,10 +218,10 @@ cv:
         end_date: Present
 
       - name: High-resolution Functional Annotation of Membrane Transporters
-        summary: Developed ConTP for high-resolution functional annotation of membrane transporters, with state-of-the-art performance and strong out-ofdistribution robustness in substrate specificity prediction and TC family classification. ConTP reveals cross-family functional convergence, including sodium transport across distinct TC superfamilies, faithfully reconstructs authentic multi substrate specificity such as in NRAMP transporters, and establishes a quantitative framework for diagnosing substrate fidelity in generative transporter design.
+        summary: Developed ConTP for high-resolution functional annotation of membrane transporters, with state-of-the-art performance and strong out-of distribution robustness in substrate specificity prediction and TC family classification. ConTP reveals cross-family functional convergence, including sodium transport across distinct TC superfamilies, faithfully reconstructs authentic multi substrate specificity such as in NRAMP transporters, and establishes a quantitative framework for diagnosing substrate fidelity in generative transporter design.
         highlights:
           - Research Project
-          - Computational Co-lead
+          - Computational lead
           - 2025/01 — Present
         start_date: "2025/01"
         end_date: Present
