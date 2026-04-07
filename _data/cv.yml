@@ -242,7 +242,7 @@ cv:
           - Computational Contributor
           - 2024/03 — 2025/12
         start_date: "2024/03"
-        end_date: 2025-12
+        end_date: "2025-12"
 
       - name: Multi-objective Engineering of Industrial Phytase
         summary: Co-optimized phytase variants with improved catalytic activity and thermostability through AI-driven mutation design in iterative design–build–test cycles beyond patent-constrained sequence space. The lead variant was successfully commercialized by Bestzyme and is now on the market. A patent application has been filed.
